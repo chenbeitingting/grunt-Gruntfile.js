@@ -1,0 +1,22 @@
+/*
+  grunt依赖包
+*/
+{
+  "name": "Wish",
+  "version": "1.0.0",
+  "author": "Roderick",
+  "devDependencies": {
+    "connect-livereload": "~0.4.0",
+    "grunt": "0.x.x",
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-concat": "~0.1.1",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "~0.1.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-css": "^0.5.4",
+    "grunt-rev": "^0.1.0",
+    "grunt-usemin": "^3.0.0",
+    "grunt-contrib-clean":"~0.6.0",
+    "grunt-contrib-copy":"~0.7.0"
+  }
+}
